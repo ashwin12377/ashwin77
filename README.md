@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Java DSA**
+- 🌱 I’m currently learning **DSA in Java**
 
 - 💬 Ask me about **Java,C++,C,MySql,Computer Network,DBMS**
 
