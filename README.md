@@ -1,3 +1,4 @@
+![MasterHead](https://cert.ac.in/images/computer.jpg)
 <h1 align="center">Hi 👋, I'm Ashwin Shetty</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
