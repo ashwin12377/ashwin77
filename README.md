@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 💬 Ask me about **Java,C++,C,MySql,Computer Network,DBMS**
+- 💬 Ask me about **Java,C++,C,MySql,HTML,Computer Network,DBMS**
 
 - 📫 How to reach me **ashwinshetty737@gmail.com**
 
