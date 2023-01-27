@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin12377&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin12377" /> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Web Development projects **
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java,C++,C,MySql,HTML,Computer Network,DBMS**
+- 💬 Ask me about **HTML,Css,JS,Java,C++,MySql,Computer Network,DBMS**
 
 - 📫 How to reach me **ashwinshetty737@gmail.com**
 
