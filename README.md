@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development projects **
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Java Script**
 
 - 💬 Ask me about **HTML,Css,JS,Java,C++,MySql,Computer Network,DBMS**
 
