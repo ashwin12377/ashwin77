@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin12377&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin12377" /> </p>
 
-- 🔭 I’m currently working on **Swift **
+- 🔭 I’m currently working on **Web Development **
 
-- 🌱 I’m currently learning **Swift UI**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML,Css,JS,Java,C++,MySql,Computer Network,DBMS**
+- 💬 Ask me about ** HTML,Css,JS,ReactJs,C++,MySql **
 
 - 📫 How to reach me **ashwinbshetty373@gmail.com**
 
