@@ -1,6 +1,6 @@
 <img align="Right" src="https://raw.githubusercontent.com/ashwin12377/ashwin12377/main/Computer Science.png"/>
 <h1 align="center">Hi 👋, I'm Ashwin Shetty</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin12377&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin12377" /> </p>
