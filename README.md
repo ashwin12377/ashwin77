@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about ** HTML,Css,JS,ReactJs,C++,MySql **
+- 💬 Ask me about ** HTML, Css, JS, ReactJs ,C++, MySql **
 
 - 🌎 visit the site **https://ashwin12377.github.io/Animation/**
 
