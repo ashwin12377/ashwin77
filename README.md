@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend Development using Node Js,Express Js, MongoDB**
 
-- 🌱 I’m currently learning ** ExpressJs, MongoDB, SQL**
+- 🌱 I’m currently learning ** ExpressJs, SQL**
 
 - 💬 Ask me about ** swift, HTML, Css, JS, ReactJs ,C++ **
 
