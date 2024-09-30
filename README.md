@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin12377&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin12377" /> </p>
 
-- 🔭 I’m currently working on **Backend Development using Node Js,Express Js, Mongodb**
+- 🔭 I’m currently working on **Backend Development using Node Js,Express Js, MongoDB**
 
-- 🌱 I’m currently learning **ios Development**
+- 🌱 I’m currently learning ** ExpressJs, MongoDB, SQL**
 
 - 💬 Ask me about ** swift, HTML, Css, JS, ReactJs ,C++ **
 
